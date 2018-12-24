@@ -1,0 +1,6 @@
+.hidden-message-enter {
+  opacity: 1;
+}
+.hidden-message-exit {
+  opacity: 0;
+}
